@@ -4,7 +4,7 @@
 
 KonaDB is a lightweight, zero-dependency database engine that supports full MySQL SQL syntax, MongoDB-style document collections, ACID transactions, file-based persistence, and AI features powered by Claude.
 
-[![CI](https://github.com/yourusername/kona-db/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/kona-db/actions/workflows/ci.yml)
+[![CI](https://github.com/konaaravind4/kona-db/actions/workflows/ci.yml/badge.svg)](https://github.com/konaaravind4/kona-db/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 

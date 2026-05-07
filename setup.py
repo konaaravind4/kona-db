@@ -14,7 +14,7 @@ setup(
                 "supporting structured and unstructured data.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/kona-db",
+    url="https://github.com/konaaravind4/kona-db",
     packages=find_packages(),
     python_requires=">=3.8",
     entry_points={
