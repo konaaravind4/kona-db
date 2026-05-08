@@ -1,5 +1,6 @@
 name: KonaDB CI
-on: [push, pull_request]jobs:
+on: [push, pull_request]
+jobs:
   test:
       runs-on: ubuntu-latest
           strategy:
@@ -12,3 +13,4 @@ on: [push, pull_request]jobs:
                                                           python-version: ${{ matrix.python-version }}
                                                                 - run: pip install pytest && pip install -e .
                                                                       - run: python -m pytest tests/test_kona.py -v
+                                                                      
